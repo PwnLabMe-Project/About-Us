@@ -20,13 +20,11 @@
   </a>
 </div>
 
-<div id="count" align="center">
-<img src="https://komarev.com/ghpvc/?username=PwnLabMe-Project&style=flat-square&color=blue" alt="" />
-</div>
-
 ### :man_technologist: Hakkımızda :
 
 - :zap: [PwnLab.Me](https://pwnlab.me) Türkiyedeki Siber Güvenlik ekosistemini canlandırmak, ekosisteme yeni insanlar kazandırmak ve bu alanda edinilen bilgi ve tecrübeyi Siber Güvenlik meraklılarıyla paylaşmayı hedefleyen gönüllü bir Siber Güvenlik Topluluğudur. Ekibimize katılan kişilerin kendi lab ortamlarını oluşturmasına yardımcı olup, bu lab ortamlarında araç kullanımlarını, ne tür atak vektörlerinin ön planda olduğunu ve bu atak vektörlerinin tespiti gibi konularda kendilerini geliştirip, öğrendiklerini siber güvenliğe ilgisi olan kişilerin rahatça ulaşabilmesi için sitemizde makale olarak paylaşmalarına olanak sağlamaktayız.
+
+- :telescope: Web Sitemiz: [PwnLab.Me](https://pwnlab.me)
 
 - :mailbox: Bizimle İletişime Geçin! [info@pwnlab.me](mailto:info@pwnlab.me)
 
