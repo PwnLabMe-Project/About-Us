@@ -30,6 +30,3 @@
 
 - :mailbox: Bizimle İletişime Geçin! [info@pwnlab.me](mailto:info@pwnlab.me)
 
-### :fire: Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PwnLabMe-Project)](https://git.io/streak-stats)
